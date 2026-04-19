@@ -19,6 +19,8 @@ Double-click `FondlySetup-x.x.x.exe`, click through the wizard, and launch from 
 
 **Requirements:** Windows 10 or 11 (64-bit)
 
+> The source code archives attached to each release are empty — Fondly's source is not publicly available. Download the installer above.
+
 ---
 
 ## What it does

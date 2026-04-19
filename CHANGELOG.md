@@ -4,6 +4,15 @@ All notable changes to Fondly are documented here.
 
 ---
 
+## [v1.0.2] - 2026-04-18
+
+### Fixed
+- Crash on Scan Only ("similar_losers not defined") — stale variable reference in dry-run summary
+- Taskbar icon now displays at correct size on Windows (uses bundled .ico via wm_iconbitmap)
+- Reduced installer size by excluding unused Python modules from the bundle
+
+---
+
 ## [v1.0.1] - 2026-04-18
 
 ### Fixed
