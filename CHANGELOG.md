@@ -4,6 +4,15 @@ All notable changes to Fondly are documented here.
 
 ---
 
+## [v1.0.4] - 2026-04-19
+
+### Changed
+- Moved to TechSetGrow GitHub organisation — all download and update links updated
+- Buy Me a Coffee link updated to techsetgrow page
+- Publisher name in Windows installer updated to TechSetGrow
+
+---
+
 ## [v1.0.3] - 2026-04-19
 
 ### Changed
