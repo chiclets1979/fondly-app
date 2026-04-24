@@ -4,6 +4,15 @@ All notable changes to Fondly are documented here.
 
 ---
 
+## [v1.0.8] - 2026-04-23
+
+### Changed
+- Restore now shows a list of all past runs (date, file count, source, output) instead of a file picker — no JSON hunting
+- Each run saves a timestamped restore point in `_fondly/` inside your output folder, so multiple runs are all independently undoable
+- Tooltip style: warm yellow info background with bold title line and wider wrap width
+
+---
+
 ## [v1.0.7] - 2026-04-23
 
 ### Changed
