@@ -4,6 +4,21 @@ All notable changes to Fondly are documented here.
 
 ---
 
+## [v1.0.5] - 2026-04-23
+
+### Added
+- Results open in a dedicated window (floats above main, pre-built for instant display)
+- Collapsible full log in Results window with horizontal + vertical scrollbars
+- ttk styling: ACCENT-coloured progress bar, themed combobox and scrollbars
+- Hover effects on all buttons (Run, Scan Only, Watch Folder, Restore, Browse)
+
+### Fixed
+- Advanced panel expanding pushes Run button off screen — window now auto-resizes (capped at 90% screen height)
+- Results window appearing behind main window — fixed with `transient()`
+- Delay before Results window appears — window pre-built at startup; "Finalizing…" shown while results are prepared
+
+---
+
 ## [v1.0.4] - 2026-04-19
 
 ### Changed
