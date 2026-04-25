@@ -4,6 +4,16 @@ All notable changes to Fondly are documented here.
 
 ---
 
+## [v1.2.1] - 2026-04-25
+
+### Fixed — Visual polish
+- App icon replaced with frame-filling design — looks sharper in the Windows taskbar and Start menu
+- Logo resized to fit the header without dominating it
+- Updated app colour palette to match the Fondly website (olive green)
+- Feedback link updated throughout the app
+
+---
+
 ## [v1.2.0] - 2026-04-24
 
 ### Fixed — Blur detection (reworked)

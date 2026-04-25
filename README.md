@@ -8,6 +8,7 @@ Fondly automatically sorts your photos and videos into clean event folders, find
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-yellow)](https://buymeacoffee.com/techsetgrow)
 [![Download](https://img.shields.io/github/v/release/techsetgrow/fondly-app?label=Download&color=7c6af7)](https://github.com/techsetgrow/fondly-app/releases/latest)
+[![Feedback](https://img.shields.io/badge/Give%20feedback-%F0%9F%92%AC-4e7c5f)](https://forms.gle/eiTY7AB7gZK7xNJD6)
 
 ---
 
